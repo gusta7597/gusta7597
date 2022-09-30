@@ -1,18 +1,4 @@
-<!--
-### Olá sou Gustavo Marques de Lima, cursando tecnólogo de Analise e Desenvolvimento de Sistemas pela FATEC, venha conhecer meus projetos.
-<h1 align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusta7597&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta7597&layout=compact)
-
-
-<a href="https://github.com/gusta7597/API-FATEC-2-SEM">
-  <img align="center"  theme=tokyonight src="https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=API-FATEC-2-SEM" />
-</a>
-<a href="https://github.com/gusta7597/API-FATEC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=API-FATEC" />
-</a>
--->
 
 ### Olá sou Gustavo Marques de Lima.
 
@@ -31,10 +17,10 @@ Sou um desenvolvedor iniciante do Brasil!<br>
 
 
 <a href="https://github.com/gusta7597/API-FATEC-2-SEM">
-  <img align="center" width="500px" theme=tokyonight src="https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=API-FATEC-2-SEM" />
+  <img align="center" height="125px" theme=tokyonight src="https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=API-FATEC-2-SEM" />
 </a>
 <a href="https://github.com/gusta7597/API-FATEC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=API-FATEC" />
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=API-FATEC" />
 </a>
 
 <br />
