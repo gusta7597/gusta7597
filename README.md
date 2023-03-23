@@ -16,9 +16,9 @@ Sou um desenvolvedor iniciante do Brasil!<br>
 #### Top Repositories
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=api-fatec&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=api-fatec&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/gusta7597/API-FATEC-2-SEM))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=api-fatec-2-sem&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta7597&repo=api-fatec-2-sem&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/gusta7597/API-FATEC-2-SEM))
 
 
 <br />
